@@ -1,0 +1,10 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore other unnecessary files
+.DS_Store
+Thumbs.db
